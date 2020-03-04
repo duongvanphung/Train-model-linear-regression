@@ -5,3 +5,5 @@
 <br>Ví dụ:
 <br>- 1,150,2000,94 : có nghĩa là nhịp tim = 150, gia tốc = 2000, kêu cứu = 94 thì 1 = kích hoạt
 <br>- 0,89,400,34 : có nghĩa là nhịp tim = 89, gia tốc = 400, kêu cứu = 34 thì 0 = không kích hoạt
+<br>Chú ý: Cần cài thêm keras
+<br>Cài keras: pip install Keras
