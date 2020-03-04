@@ -11,7 +11,7 @@ import numpy as np
 
 outputs = []
 fvecs = []
-with open("../data.csv", "r") as ins:
+with open("./data.csv", "r") as ins:
   for line in ins:
     row = line.split(",")
     outputs.append(int(row[0]))
